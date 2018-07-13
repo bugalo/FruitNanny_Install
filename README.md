@@ -4,4 +4,5 @@ Bash script used to install FruitNanny from scratch. I will probably set this sc
 See:
 
 https://ivadim.github.io/2017-08-21-fruitnanny/
+
 https://github.com/ivadim/fruitnanny
