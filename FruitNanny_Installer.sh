@@ -132,3 +132,7 @@ done
 
 sudo sh -c "echo -n $user_name':' >> /etc/nginx/.htpasswd"
 sudo sh -c "openssl passwd -apr1 >> /etc/nginx/.htpasswd"
+
+read -n 1 -s -r -p "Press any key to reboot..."
+echo
+sudo reboot now
